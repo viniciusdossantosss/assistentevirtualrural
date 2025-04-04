@@ -37,14 +37,17 @@ Banco de dados (se necessário):
 Backend:
 Frontend:
 Milestones 
+
 Frontend
 - [ ] Definir qual interface será utilizada (app, web)
 - [ ] Utilização de um mapa interativo a ser utilizado
 
 Backend
 - [ ] Definir qual(is) API(s) serão utilizadas no projeto
+
 Chatbot
 - [ ] Definir qual plataforma será utilizada para a criação do chatbot
+
 Documentação
 - [ ] Organizar as milestones de acordo com as informações obtidas na reuniâo 05/04
 - [ ] Documentar e comentar códigos:

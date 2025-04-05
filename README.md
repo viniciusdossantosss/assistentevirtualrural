@@ -2,7 +2,7 @@
 
 **Nome do Assistente Virtual:** 
 
-[![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](https://opensource.org/licenses/MIT) ## 
+[![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
 🌱 Descrição
 
@@ -72,4 +72,9 @@ Este projeto está licenciado sob a licença [MIT](https://opensource.org/licens
 
 ## 🧑‍💻 Autores
 
+Bianca Santos Lima
+Fernando Melo
+Igor Natan
+Luis Henrique Gonçalves
+Raquel Moura
 Vinicius dos Santos Reis

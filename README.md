@@ -72,9 +72,9 @@ Este projeto está licenciado sob a licença [MIT](https://opensource.org/licens
 
 ## 🧑‍💻 Autores
 
-Bianca Santos Lima
-Fernando Melo
-Igor Natan
-Luis Henrique Gonçalves
-Raquel Moura
-Vinicius dos Santos Reis
+* Bianca Santos Lima
+* Fernando Melo
+* Igor Natan
+* Luis Henrique Gonçalves
+* Raquel Moura
+* Vinicius dos Santos Reis
